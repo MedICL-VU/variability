@@ -33,7 +33,7 @@ Here are the [datasets](https://drive.google.com/drive/folders/13uGNb2WQhSQcBQIU
 ```
 python ./boundary_selection/boundary_selection.py
 ```
-An example case is provided under ./boundary_selection, please see the [example.png]()
+An example case is provided under ./boundary_selection, please see the [example.png](https://github.com/MedICL-VU/variability/blob/main/boundary_selection/example.png)
 
 # contact
 Please shot an email to hao.li.1@vanderbilt.edu for any questions and always happy to help! :).
