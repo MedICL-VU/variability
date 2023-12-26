@@ -1,4 +1,6 @@
 # Test-time Variability
+[![Paper](https://img.shields.io/badge/paper-arXiv-green)](https://arxiv.org/pdf/2311.07806.pdf)
+
 Assessing Test-time Variability for Interactive 3D Medical Image Segmentation with Diverse Point Prompts
 ```
 @article{li2023assessing,
