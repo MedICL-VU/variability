@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 **Datasets**
 
-Here are the [datasets](https://drive.google.com/drive/folders/13uGNb2WQhSQcBQIUhnvYJere1LBYGDsW?usp=sharing) that we used in our experiments, which are modified based on the original datasets from [Medical Segmentation Decathlon](http://medicaldecathlon.com/). We used two public datasets, e.g. task 07 and 10 for pancreas and colon tumor segmentations, respectively. 
+Here are the [datasets](https://drive.google.com/drive/folders/13uGNb2WQhSQcBQIUhnvYJere1LBYGDsW?usp=sharing) that we used in our experiments, which are modified based on the original public datasets from [Medical Segmentation Decathlon](http://medicaldecathlon.com/). We task 10 for colon tumor segmentations. 
 
 **Use**
 ```
